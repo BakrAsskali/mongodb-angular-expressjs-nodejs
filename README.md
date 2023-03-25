@@ -158,3 +158,7 @@ $ docker compose down
 ```
 
 
+## Original repository:
+```link
+https://github.com/docker/awesome-compose
+```
